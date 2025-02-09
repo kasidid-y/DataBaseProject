@@ -28,4 +28,4 @@ Stores Table
 
 Database Diagram
 
-![DbDiagram](DatabaseDiagram.png)
+![DbDiagram](/assets/DatabaseDiagram.png)
